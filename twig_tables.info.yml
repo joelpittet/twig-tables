@@ -1,0 +1,6 @@
+name: Twig tables
+type: module
+description: 'Generates tables for developing the Twig table template.'
+package: Twig
+version: VERSION
+core: 8.x
